@@ -1,2 +1,12 @@
 # Happy-New-Year
-Happy New Year animation effect written by HTML, CSS, Javascript. Note: Borrowed from some sources on Github
+Information:
+_________________________________________________________________
+|     📱Facebook: https://www.facebook.com/nguyen.nguyenvo.714/  |
+|     🐱Github: https://github.com/lewisbenj			               |
+|     🤖Discord: discord.com/invite/camelia			                 |
+|________________________________________________________________|
+
+This project can be borrowed from a number of sources on Github and other sources. 
+If you have any questions, please contact the information above for support. 
+Best regards
+
